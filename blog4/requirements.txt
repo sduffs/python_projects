@@ -1,0 +1,11 @@
+certifi==2024.12.14
+chardet==3.0.4
+crispy-bootstrap4==2024.10
+Django==5.1.4
+django-crispy-forms==2.3
+idna==3.10
+Pillow==11.0.0
+pytz==2018.5
+requests==2.32.3
+urllib3==2.2.3
+psycopg2-binary==2.9.10
